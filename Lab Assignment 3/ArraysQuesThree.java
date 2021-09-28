@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArraysQuesOne {
+public class ArraysQuesThree {
 	
 	static int calculateAverage(int a[]) {
 		int sum = 0;
